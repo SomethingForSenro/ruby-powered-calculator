@@ -4,7 +4,7 @@ These are your options for methods, written letter for letter. Don't include the
 1) 'addition':
 Add two addends together!
 2) 'subtraction':
-Subtraact two numbers! The number you're subtracting from is called the 'menuend', and the number by which you're subtracting is the 'subtrehend'.
+Subtract two numbers! The number you're subtracting from is called the 'menuend', and the number by which you're subtracting is the 'subtrehend'.
 3) 'multiplication':
 Multiply the multiplicand by the multiplier!
 4) 'division':
